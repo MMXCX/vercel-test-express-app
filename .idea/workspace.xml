@@ -34,7 +34,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/opt/WebStorm-232.10203.14/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "ts.external.directory.path": "/home/mmxcx/WebstormProjects/vercel-test-express-app/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -53,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704676454470</updated>
       <workItem from="1704676455540" duration="6276000" />
-      <workItem from="1704736152445" duration="673000" />
+      <workItem from="1704736152445" duration="999000" />
     </task>
     <servers />
   </component>
